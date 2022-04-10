@@ -1,0 +1,11 @@
+Neste arquivo de texto foi adicionado os comandos introdutórios sobre Git/GitHub que o professor comentou em sua aula.
+
+No git bash você poderá verificar que existe novos arquivos que precisam serem colocados na nuvem, no controle de versão.
+
+No git bash digite:
+git status(Verifica o status do seu projeto)
+git add . ou git add -A (para adicionar um arquivo ou adicionar todos de uma única vez, respectivamente)
+git status(verifiar novamente como estar o projeto)
+git commit -m "Novas anotações" (Adiciona um comentário ao seu arquivo)
+git status(verifiar novamente como estar o projeto)
+git push origin main(Enviar os seus commits para a nuvem)
